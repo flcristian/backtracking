@@ -129,6 +129,14 @@
   <ItemGroup>
     <ClCompile Include="backtracking.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="permutari.h" />
+    <ClInclude Include="problema1.h" />
+    <ClInclude Include="problema2.h" />
+    <ClInclude Include="problema3.h" />
+    <ClInclude Include="problema4.h" />
+    <ClInclude Include="structuri.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
