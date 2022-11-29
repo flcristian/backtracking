@@ -41,5 +41,59 @@
     <ClInclude Include="problema4.h">
       <Filter>Probleme</Filter>
     </ClInclude>
+    <ClInclude Include="problema5.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema6.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema7.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema8.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema9.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema10.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema11.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema12.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema13.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema14.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema15.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema16.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema17.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema18.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema19.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema20.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema21.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema22.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

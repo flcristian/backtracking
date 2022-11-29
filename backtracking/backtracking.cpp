@@ -1,6 +1,6 @@
-#include "problema4.h"
+#include "problema22.h"
 
 int main()
 {
-   
+	problema22();
 }
