@@ -77,5 +77,23 @@
     <ClInclude Include="problema16.h">
       <Filter>Probleme</Filter>
     </ClInclude>
+    <ClInclude Include="problema17.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema18.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema19.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema20.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema21.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
+    <ClInclude Include="problema22.h">
+      <Filter>Probleme</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

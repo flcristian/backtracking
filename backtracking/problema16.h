@@ -50,12 +50,10 @@ bool alaturate(int a, int b) {
 }
 
 bool valid(int k) {
-	for (int i = 0; i < k && k > 0; i++) {
+	for (int i = 0; i < k; i++) {
 		if (alaturate(s[i], s[i + 1])) {
 			return 0;
 		}
-	}
-	for (int i = 0; i < k; i++) {
 		if (s[k] == s[i]) {
 			return 0;
 		}

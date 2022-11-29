@@ -139,7 +139,13 @@
     <ClInclude Include="problema14.h" />
     <ClInclude Include="problema15.h" />
     <ClInclude Include="problema16.h" />
+    <ClInclude Include="problema17.h" />
+    <ClInclude Include="problema18.h" />
+    <ClInclude Include="problema19.h" />
     <ClInclude Include="problema2.h" />
+    <ClInclude Include="problema20.h" />
+    <ClInclude Include="problema21.h" />
+    <ClInclude Include="problema22.h" />
     <ClInclude Include="problema3.h" />
     <ClInclude Include="problema4.h" />
     <ClInclude Include="problema5.h" />
