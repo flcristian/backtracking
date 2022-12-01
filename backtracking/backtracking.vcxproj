@@ -130,6 +130,8 @@
     <ClCompile Include="backtracking.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="aranjamente.h" />
+    <ClInclude Include="combinari.h" />
     <ClInclude Include="permutari.h" />
     <ClInclude Include="problema1.h" />
     <ClInclude Include="problema10.h" />

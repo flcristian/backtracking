@@ -9,9 +9,9 @@ Persoana E("Darius", "Alexandru", 32);
 Persoana persoane[5] = { A, B, C, D, E };
 Persoana solutii[100];
 
-// Exemplu primul copil sa aiba varsta impara, iar ultimul par.
-
 int dim = 3;
+
+// Exemplu primul copil sa aiba varsta impara, iar ultimul par.
 
 void tipar() {
 	for (int i = 0; i < dim; i++) {

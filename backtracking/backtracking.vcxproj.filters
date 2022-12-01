@@ -95,5 +95,11 @@
     <ClInclude Include="problema22.h">
       <Filter>Probleme</Filter>
     </ClInclude>
+    <ClInclude Include="aranjamente.h">
+      <Filter>Lectie</Filter>
+    </ClInclude>
+    <ClInclude Include="combinari.h">
+      <Filter>Lectie</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

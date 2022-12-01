@@ -1,0 +1,60 @@
+#include "structuri.h"
+
+Persoana A("Andrei", "Barbu", 21);
+Persoana B("Alex", "Radulescu", 22);
+Persoana C("Andrei", "Popa", 30);
+Persoana D("Paul", "Adrian", 15);
+Persoana E("Darius", "Alexandru", 33);
+
+Persoana persoane[5] = { A, B, C, D, E };
+Persoana solutii[100];
+
+int n = 5, m = 3;
+
+// Exemplu combinari de 5 luate cate 3.
+// Conditii :
+// - primul copil sa aiba varsta impara, iar ultimul par.
+// - primul copil sa nu aiba prenumele Andrei.
+
+void tipar() {
+	for (int i = 0; i < m; i++) {
+		cout << solutii[i].nume << " ";
+	}
+	cout << endl;
+}
+
+bool valid(int k) {
+	if (k == 0 && (solutii[k].prenume == "Andrei" || solutii[k].varsta % 2 != 1)) {
+		return 0;
+	}
+	if (k == m - 1 && solutii[k].varsta % 2 != 0) {
+		return 0;
+	}
+	for (int i = 0; i < k; i++) {
+		if (solutii[i].nume >= solutii[i + 1].nume) {
+			return 0;
+		}
+	}
+	return 1;
+}
+
+bool solutie(int k) {
+	if (k == m - 1) {
+		return 1;
+	}
+	return 0;
+}
+
+void back(int k) {
+	for (int i = 0; i < n; i++) {
+		solutii[k] = persoane[i];
+		if (valid(k)) {
+			if (solutie(k)) {
+				tipar();
+			}
+			else {
+				back(k + 1);
+			}
+		}
+	}
+}

@@ -40,7 +40,7 @@ bool solutie(int k) {
 }
 
 void back(int k) {
-	for (int i = 0; i < n && k < m; i++) {
+	for (int i = 0; i < n; i++) {
 		s[k] = x[i];
 		if (valid(k)) {
 			if (solutie(k)) {

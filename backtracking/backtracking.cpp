@@ -1,6 +1,7 @@
-#include "problema22.h"
+#include "combinari.h"
 
 int main()
 {
-	problema22();
+	back(0);
+	
 }
