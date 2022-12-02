@@ -54,6 +54,5 @@ void back(int k) {
 void problema7() {
 	cout << "Introduceti n : ";
 	cin >> n;
-
 	back(0);
 }

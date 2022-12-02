@@ -1,0 +1,57 @@
+﻿#include <iostream>
+
+using namespace std;
+
+// Se citesc două numere naturale n și m. 
+// Afișați în ordine lexicografică toate submulțimile 
+// cu m elemente ale mulțimii {1, 2, ..., n} în care
+// nu există două elemente pare alăturate.
+
+int n, m;
+int s[100];
+
+void tipar() {
+	for (int i = 0; i < m; i++) {
+		cout << s[i] << " ";
+	}
+	cout << endl;
+}
+
+bool valid(int k) {
+	for (int i = 0; i < k; i++) {
+		if (s[i] >= s[i + 1] || (s[i] % 2 == 0 && s[i + 1] % 2 == 0)) {
+			return 0;
+		}
+	}
+	return 1;
+}
+
+bool solutie(int k) {
+	if (k == m - 1) {
+		return 1;
+	}
+	return 0;
+}
+
+void back(int k) {
+	for (int i = 0; i < n; i++) {
+		s[k] = i + 1;
+		if (valid(k)) {
+			if (solutie(k)) {
+				tipar();
+			}
+			else {
+				back(k + 1);
+			}
+		}
+	}
+}
+
+void problema28() {
+	cout << "Introduceti n : ";
+	cin >> n;
+	cout << "Introduceti m : ";
+	cin >> m;
+
+	back(0);
+}

@@ -1,6 +1,6 @@
-#include "problema22.h"
+#include "fisa-problema5.h"
 
 int main()
 {
-	problema22();
+	rezolvare();
 }
