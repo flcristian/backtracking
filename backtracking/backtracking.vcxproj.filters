@@ -13,8 +13,11 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="Probleme">
+    <Filter Include="Probleme PBInfo.ro">
       <UniqueIdentifier>{2c0978b3-bcb1-4445-9a7c-d403a928d72b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Probleme Fisa">
+      <UniqueIdentifier>{250993e2-9f8e-46e7-9a76-5f95cf7aab2d}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -30,76 +33,109 @@
       <Filter>Lectie</Filter>
     </ClInclude>
     <ClInclude Include="problema1.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema2.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema3.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema4.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema5.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema6.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema7.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema8.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema9.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema10.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema11.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema12.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema13.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema14.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema15.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema16.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema17.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema18.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema19.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema20.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema21.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="problema22.h">
-      <Filter>Probleme</Filter>
+      <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
     <ClInclude Include="aranjamente.h">
       <Filter>Lectie</Filter>
     </ClInclude>
     <ClInclude Include="combinari.h">
       <Filter>Lectie</Filter>
+    </ClInclude>
+    <ClInclude Include="problema23.h">
+      <Filter>Probleme PBInfo.ro</Filter>
+    </ClInclude>
+    <ClInclude Include="problema24.h">
+      <Filter>Probleme PBInfo.ro</Filter>
+    </ClInclude>
+    <ClInclude Include="problema25.h">
+      <Filter>Probleme PBInfo.ro</Filter>
+    </ClInclude>
+    <ClInclude Include="problema26.h">
+      <Filter>Probleme PBInfo.ro</Filter>
+    </ClInclude>
+    <ClInclude Include="problema27.h">
+      <Filter>Probleme PBInfo.ro</Filter>
+    </ClInclude>
+    <ClInclude Include="problema28.h">
+      <Filter>Probleme PBInfo.ro</Filter>
+    </ClInclude>
+    <ClInclude Include="problema29.h">
+      <Filter>Probleme PBInfo.ro</Filter>
+    </ClInclude>
+    <ClInclude Include="problema30.h">
+      <Filter>Probleme PBInfo.ro</Filter>
+    </ClInclude>
+    <ClInclude Include="problema31.h">
+      <Filter>Probleme PBInfo.ro</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema1.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema2.h">
+      <Filter>Probleme Fisa</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
