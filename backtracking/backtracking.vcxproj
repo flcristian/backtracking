@@ -134,6 +134,9 @@
     <ClInclude Include="combinari.h" />
     <ClInclude Include="fisa-problema1.h" />
     <ClInclude Include="fisa-problema2.h" />
+    <ClInclude Include="fisa-problema3.h" />
+    <ClInclude Include="fisa-problema4.h" />
+    <ClInclude Include="fisa-problema5.h" />
     <ClInclude Include="permutari.h" />
     <ClInclude Include="problema1.h" />
     <ClInclude Include="problema10.h" />

@@ -137,5 +137,14 @@
     <ClInclude Include="fisa-problema2.h">
       <Filter>Probleme Fisa</Filter>
     </ClInclude>
+    <ClInclude Include="fisa-problema3.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema4.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema5.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

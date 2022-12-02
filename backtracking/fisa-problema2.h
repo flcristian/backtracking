@@ -32,7 +32,7 @@ bool solutie(int k, int m) {
 }
 
 void back(int k, int m) {
-	for (int i = 0; i < 5; i++) {
+	for (int i = 0; i < 5 && m <= 5; i++) {
 		s[k] = x[i];
 		if (valid(k)) {
 			if (solutie(k, m)) {
