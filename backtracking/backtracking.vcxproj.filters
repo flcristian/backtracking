@@ -146,5 +146,47 @@
     <ClInclude Include="fisa-problema5.h">
       <Filter>Probleme Fisa</Filter>
     </ClInclude>
+    <ClInclude Include="fisa-problema6.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema7.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema8.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema8-structuri.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema9.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema10.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema11.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema12.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema13.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema14.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema15.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema16.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema16-structuri.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
+    <ClInclude Include="fisa-problema17.h">
+      <Filter>Probleme Fisa</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
