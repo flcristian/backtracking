@@ -16,4 +16,4 @@ void tipar() {
 	cout << endl;
 }
 
-// ? ? ? ?
+// Nu inca.
