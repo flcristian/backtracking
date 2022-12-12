@@ -1,4 +1,4 @@
-#include "fisa-problema17.h"
+#include "problema32.h"
 
 int main()
 {

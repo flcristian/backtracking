@@ -188,5 +188,11 @@
     <ClInclude Include="fisa-problema17.h">
       <Filter>Probleme Fisa</Filter>
     </ClInclude>
+    <ClInclude Include="produs-cartezian.h">
+      <Filter>Lectie</Filter>
+    </ClInclude>
+    <ClInclude Include="problema32.h">
+      <Filter>Probleme PBInfo.ro</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

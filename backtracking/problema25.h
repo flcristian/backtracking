@@ -74,7 +74,7 @@ void back(int k) {
 	}
 }
 
-void problema25() {
+void rezolvare() {
 	cout << "Introduceti n : ";
 	cin >> n;
 	cout << "Introduceti numarul de cifre : ";

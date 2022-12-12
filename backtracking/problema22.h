@@ -90,7 +90,7 @@ int restMinim() {
 	return min;
 }
 
-void problema22() {
+void rezolvare() {
 	cout << "Introduceti n : ";
 	cin >> n;
 	for (int i = 0; i < n; i++) {
