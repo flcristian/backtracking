@@ -42,7 +42,7 @@ void back(int k) {
 	}
 }
 
-void problema1() {
+void rezolvare() {
 	cout << "Introduceti n : ";
 	cin >> n;
 

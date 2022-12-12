@@ -73,7 +73,7 @@ void back(int k) {
 	}
 }
 
-void problema11() {
+void rezolvare() {
 	cout << "Introduceti cuvantul : ";
 	cin >> cuvant;
 	atribuire();

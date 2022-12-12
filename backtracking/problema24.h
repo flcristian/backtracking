@@ -46,7 +46,7 @@ void back(int k) {
 	}
 }
 
-void problema24() {
+void rezolvare() {
 	cout << "Avem intervalul inchis [a, b]" << endl;
 	cout << "Introduceti a : ";
 	cin >> a;

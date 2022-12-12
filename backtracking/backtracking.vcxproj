@@ -177,12 +177,14 @@
     <ClInclude Include="problema3.h" />
     <ClInclude Include="problema30.h" />
     <ClInclude Include="problema31.h" />
+    <ClInclude Include="problema32.h" />
     <ClInclude Include="problema4.h" />
     <ClInclude Include="problema5.h" />
     <ClInclude Include="problema6.h" />
     <ClInclude Include="problema7.h" />
     <ClInclude Include="problema8.h" />
     <ClInclude Include="problema9.h" />
+    <ClInclude Include="produs-cartezian.h" />
     <ClInclude Include="structuri.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
