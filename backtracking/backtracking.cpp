@@ -1,4 +1,4 @@
-#include "problema32.h"
+#include "tema-15-decembrie-problema2.h"
 
 int main()
 {

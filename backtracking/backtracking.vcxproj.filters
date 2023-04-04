@@ -19,6 +19,9 @@
     <Filter Include="Probleme Fisa">
       <UniqueIdentifier>{250993e2-9f8e-46e7-9a76-5f95cf7aab2d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Tema 15 Decembrie">
+      <UniqueIdentifier>{d175e752-263c-46f4-9de9-a0b650a44aab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="backtracking.cpp">
@@ -194,5 +197,16 @@
     <ClInclude Include="problema32.h">
       <Filter>Probleme PBInfo.ro</Filter>
     </ClInclude>
+    <ClInclude Include="tema-15-decembrie-problema1.h">
+      <Filter>Tema 15 Decembrie</Filter>
+    </ClInclude>
+    <ClInclude Include="tema-15-decembrie-problema2.h">
+      <Filter>Tema 15 Decembrie</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="numere-T15D-Pb1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
